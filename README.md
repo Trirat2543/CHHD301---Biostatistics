@@ -1,1 +1,1 @@
-# CHHD301---Biostatistics
+# CHHD301-Biostatistics
